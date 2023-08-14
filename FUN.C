@@ -8,7 +8,7 @@ void main()
 clrscr();
 	printf("Enter Laddu :");
 	scanf("%d",&laddu);
-	printf("Enter Ras :");
+	printf("Enter Rasagulla :");
 	scanf("%d",&ras);
 	temp=diwali(laddu,ras);
 	printf("Total Sweets : %d",temp);
